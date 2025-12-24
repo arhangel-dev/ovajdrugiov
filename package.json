@@ -14,7 +14,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@supabase/supabase-js": "^2.88.0",
-    "supabase": "^2.67.2"
-  }
+    "@supabase/supabase-js": "^2.89.0",
+    "supabase": "^2.70.4"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/arhangel-dev/ovajdrugiov/issues"
+  },
+  "homepage": "https://github.com/arhangel-dev/ovajdrugiov#readme"
 }
